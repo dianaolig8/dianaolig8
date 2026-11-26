@@ -4,7 +4,7 @@ I work between business and tech teams: I find out what people actually need, tu
 
 - **Now:** Master of Management in Analytics, McGill University (Montréal). Leading our Michelin demand-forecasting capstone.
 - **Before:** ~5 years as a project manager in Mexico, shipping SaaS products (WFacturas, VotoMétrica, GoldDental) and running the Shell LiveWIRE accelerator.
-- **Looking for:** Product Owner / product and analytics roles, summer 2027.
+- **Looking for:** Product Owner / product and analytics roles, Summer 2027.
 
 ### Projects
 
