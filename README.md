@@ -1,4 +1,4 @@
-## Hi, I'm Diana Oliván
+## Hi there! I'm Diana Oliván
 
 I work between business and tech teams: I find out what people actually need, turn it into something a team can build, and measure whether it worked.
 
