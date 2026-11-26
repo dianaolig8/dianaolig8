@@ -19,7 +19,7 @@ Python (pandas, scikit-learn, PyTorch) · SQL · Git · Jira · Azure · Databri
 
 **Certifications:** Microsoft Azure Fundamentals (AZ-900) · Databricks Fundamentals · Anthropic Claude 101 & AI Fluency · Atlassian Jira
 
-[Portfolio](https://dianaolig8.github.io) · [LinkedIn](https://www.linkedin.com/in/dianaolivan/) · [Email](mailto:diana.olivangutierrez@mail.mcgill.ca)## Hi there 👋
+[Portfolio](https://dianaolig8.github.io) · [LinkedIn](https://www.linkedin.com/in/dianaolivan/) · [Email](mailto:diana.olivangutierrez@mail.mcgill.ca)
 
 <!--
 **dianaolig8/dianaolig8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
